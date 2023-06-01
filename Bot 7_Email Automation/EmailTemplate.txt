@@ -1,0 +1,12 @@
+Hello Sandy,
+
+Your Email Automation robot has been successfully completed at {0}.
+
+The following logs are recorded:
+
+{1}
+
+Also, please see the attached images.
+
+Kind regards,
+Email Automation Robot
