@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "AllPDFText&Sequence_2",
         "ScrapedTotal&Sequence_3"
       ],
       "ArgumentsSectionElementsOrder": [],
