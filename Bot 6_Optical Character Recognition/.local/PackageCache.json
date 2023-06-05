@@ -89,28 +89,6 @@
     },
     {
       "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.14.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\hp\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.8.14512-dev\\lib/netstandard2.0/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib/netstandard2.0/BitMiracle.LibTiff.NET.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\ntextcat\\0.3.65\\lib/netstandard2.0/NTextCat.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.21.0\\lib/net6.0/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\3.2.0\\lib/net6.0/UiPath.DocumentUnderstanding.Digitizer.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.Activities.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.Telemetry.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
-      ],
-      "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1"
-    },
-    {
-      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "23.4.2"
       },
@@ -255,6 +233,28 @@
         "C:\\Users\\hp\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.14.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\hp\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.8.14512-dev\\lib/netstandard2.0/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib/netstandard2.0/BitMiracle.LibTiff.NET.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\ntextcat\\0.3.65\\lib/netstandard2.0/NTextCat.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.21.0\\lib/net6.0/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\3.2.0\\lib/net6.0/UiPath.DocumentUnderstanding.Digitizer.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.Activities.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib/net6.0-windows7.0/UiPath.PDF.Telemetry.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1"
     }
   ],
   "Conflicts": [],
@@ -7307,8 +7307,8 @@
       "Assemblies": [
         "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Activities.Design.dll",
         "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Activities.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Telemetry.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib\\net6.0-windows7.0\\UiPath.PDF.dll"
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib\\net6.0-windows7.0\\UiPath.PDF.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1\\lib\\net6.0-windows7.0\\UiPath.PDF.Telemetry.dll"
       ],
       "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.pdf.activities\\3.14.1"
     },

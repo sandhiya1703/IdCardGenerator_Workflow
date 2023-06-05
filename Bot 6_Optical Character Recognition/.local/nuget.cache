@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rbppgw1HRTNFK6XkwcpNgIS3CxGv6KIcm/bzqofcPdOSJ7lu5RYE5z+yDlMNNVvZsrzwK+OUlRub6yvHiPvrcw==",
+  "dgSpecHash": "HnmdyODWucSNrEKvTLhRlPrGUNXgYdXvhcUJr5KbKtXkSZnZynodYKOZWCX6SWNyzPsnZHFoycvOMko4oRCk0A==",
   "success": true,
-  "projectFilePath": "C:\\Sandhiya\\UiPath_Activities\\Bot 6_Optical Character Recognition\\.local\\",
+  "projectFilePath": "C:\\sandy\\My Projects\\Bot 6_Optical Character Recognition\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

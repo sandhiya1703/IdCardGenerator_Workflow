@@ -12,6 +12,11 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "BotRunTime&Sequence_1",
+        "Sum&Sequence_1",
+        "SaleAmount&Sequence_2",
+        "ExtractedSaleAmnt&Sequence_2",
+        "CurrencyMatches&Sequence_2",
         "ConvertDate&Sequence_2",
         "ExtractedDate&Sequence_2",
         "ListOfDates&Sequence_2",

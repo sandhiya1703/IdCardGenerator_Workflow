@@ -1,0 +1,5 @@
+﻿Receipt ID: 47213527 | Receipt Date: 9 August 2022 | Sale Amount: 20.89 | Sum Amount: 20.89
+Receipt ID: 58462358 | Receipt Date: 23 August 2022 | Sale Amount: 79.66 | Sum Amount: 100.55
+Receipt ID: 78496352 | Receipt Date: 10 March 2023 | Sale Amount: 84.64 | Sum Amount: 185.19
+Receipt ID: 98598969 | Receipt Date: 16 May 2023 | Sale Amount: 52.64 | Sum Amount: 237.82999999999998
+Receipt ID: 85475826 | Receipt Date: 23 November 2023 | Sale Amount: 11 | Sum Amount: 248.82999999999998
