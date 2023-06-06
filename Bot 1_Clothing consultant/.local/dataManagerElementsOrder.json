@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outfitsuggestions&Sequence_1",
+        "RainGear&Sequence_1",
+        "Weather&Sequence_1",
+        "Temperature&Sequence_1",
+        "cityName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main-Clothing Consultant.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cityName&Sequence_1",
+        "Temperature&Sequence_1",
+        "Weather&Sequence_1",
+        "RainGear&Sequence_1",
+        "outfitsuggestions&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
